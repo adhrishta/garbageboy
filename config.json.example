@@ -1,0 +1,13 @@
+{
+  "target_path": "//192.168.1.2/directory/",
+  "days_threshold": 1,
+  "email_config": {
+    "enabled": true,
+    "smtp_host": "",
+    "smtp_port": 587,
+    "use_tls": true,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_email": ""
+  }
+}
